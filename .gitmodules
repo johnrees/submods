@@ -1,0 +1,3 @@
+[submodule "front-extensions"]
+	path = front-extensions
+	url = https://github.com/johnrees/front-extensions
